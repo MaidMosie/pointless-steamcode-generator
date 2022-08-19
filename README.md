@@ -6,3 +6,15 @@ it's illegal for you to use this (or for me to make it). However, the chances of
 
 ## Requirements
 `Cargo` needs to be installed in order to build this. see [Rust's installation Page](https://doc.rust-lang.org/cargo/getting-started/installation.html) in order to install it.
+
+## Building
+
+### Windows
+<!-- :) -->
+### Linux
+do this in your shell
+```
+git clone https://github.com/MaidMosie/pointless-steamcode-generator.git
+cd pointless-steamcode-generator
+cargo build
+```
