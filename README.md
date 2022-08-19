@@ -18,3 +18,11 @@ git clone https://github.com/MaidMosie/pointless-steamcode-generator.git
 cd pointless-steamcode-generator
 cargo build
 ```
+run the program by going into it's directory,
+```shell
+cd target/debug
+```
+and running it.
+```shell
+./pscg
+```
