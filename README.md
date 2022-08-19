@@ -12,8 +12,8 @@ it's illegal for you to use this (or for me to make it). However, the chances of
 ### Windows
 <!-- :) -->
 ### Linux
-do this in your shell
-```
+Do the following in your shell.
+```shell
 git clone https://github.com/MaidMosie/pointless-steamcode-generator.git
 cd pointless-steamcode-generator
 cargo build
