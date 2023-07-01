@@ -21,5 +21,5 @@ cd target/debug
 ```
 and running it.
 ```shell
-./pscg
+./pcsg
 ```
